@@ -4,4 +4,9 @@ SackVsion is a computer vision project that uses YOLOv8 for detection and ByteTr
 
 
 # Usage
-1. To use this project first clone the repository.
+1. To use this project, first clone the repository:
+
+   ```
+   git clone https://github.com/Shamlan321/SackVision/
+   ```
+ 
