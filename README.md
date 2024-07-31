@@ -1,7 +1,7 @@
 # About
 SackVsion is a computer vision project that uses YOLOv8 for detection and ByteTrack for tracking to count sacks in real-time. It offers real-time counting of sacks, it can also work on pre-recorded video. After processing the video is output video is also saved in the `processed` folder. You can also train your own YOLO model to count custom objects according to your needs.
 # Demo
-![](https://github.com/Shamlan321/SackVision/blob/main/Picsart_24-07-18_13-01-27-497.mp4)
+![Alt Text](https://github.com/Shamlan321/SackVision/blob/main/Demo1.gif)
 # Usage
 1. To use this project, execute the following commands one-by-one:
    ```
