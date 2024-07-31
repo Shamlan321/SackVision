@@ -16,6 +16,7 @@ SackVsion is a computer vision project that uses YOLOv8 for detection and ByteTr
    ```
  
 2. If everything is installed, the script will start.
+![Alt Text](https://github.com/Shamlan321/SackVision/blob/main/SS.png)
 
 3. Now, there are two options, you can either drop a pre-recorded video in the terminal or you can enter the camera device id for real-time processing. Like most of the time `0` is the     id of internal webcam and if you have an external camera attached, it would be something like `1` or `2`. 
 4. :warning: Based on your camera resolution you may need to adjust the counting line to your needs. 
