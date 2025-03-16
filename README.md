@@ -8,6 +8,10 @@
 
 SackVision is a cutting-edge computer vision project designed to provide accurate, real-time object counting. By combining the power of YOLOv8 for object detection and ByteTrack for robust object tracking, SackVision offers a versatile solution for various counting applications. Whether you need to count sacks in a warehouse, monitor traffic flow, or track any other type of object, SackVision delivers reliable results.
 
+## Demo
+![Cool Animation](Demo1.gif)
+
+
 ## Why SackVision?
 
 In today's data-driven world, precise object counting is crucial for optimizing operations, improving efficiency, and gaining valuable insights. SackVision streamlines this process, automating the counting task and eliminating the need for manual, error-prone methods. This project is not limited to counting sacks; its adaptability allows you to train custom models for any object, making it a powerful tool for a wide range of industries.
